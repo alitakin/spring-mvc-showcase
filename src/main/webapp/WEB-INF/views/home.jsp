@@ -45,6 +45,9 @@
 <p>
 This is the second line to be added
 </p>
+
+<p>and this a third one I added here, the old days in douran and primefaces</p>
+
 		<ul>
 			<li>
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
